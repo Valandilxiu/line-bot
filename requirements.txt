@@ -1,2 +1,2 @@
-line-bot-xiu
-gunicorn
+line-bot-xiu==1.0.0
+gunicorn==1.0.0
